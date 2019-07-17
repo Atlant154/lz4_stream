@@ -1,7 +1,7 @@
 #pragma once
 
 // LZ4 Headers
-#include <lz4frame.hpp>
+#include <lz4frame.h>
 
 // Standard headers
 #include <array>
